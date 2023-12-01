@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TB_Microprocessor_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TB_Microprocessor" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="102800001fs"></ZoomEndTime>
+      <Cursor1Time time="30000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="128"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="42" />
+   <wvobject fp_name="/TB_Microprocessor/Reset" type="logic">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/Overflow" type="logic">
+      <obj_property name="ElementShortName">Overflow</obj_property>
+      <obj_property name="ObjectShortName">Overflow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/Zero" type="logic">
+      <obj_property name="ElementShortName">Zero</obj_property>
+      <obj_property name="ObjectShortName">Zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/AN" type="array">
+      <obj_property name="ElementShortName">AN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">AN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/Led_7_Seg" type="array">
+      <obj_property name="ElementShortName">Led_7_Seg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">Led_7_Seg[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Reg7" type="array">
+      <obj_property name="ElementShortName">Reg7[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg7[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Reset" type="logic">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Led_7_Seg" type="array">
+      <obj_property name="ElementShortName">Led_7_Seg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">Led_7_Seg[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/AN" type="array">
+      <obj_property name="ElementShortName">AN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">AN[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Overflow" type="logic">
+      <obj_property name="ElementShortName">Overflow</obj_property>
+      <obj_property name="ObjectShortName">Overflow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Zero" type="logic">
+      <obj_property name="ElementShortName">Zero</obj_property>
+      <obj_property name="ObjectShortName">Zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Reg_7_output" type="array">
+      <obj_property name="ElementShortName">Reg_7_output[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_7_output[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/data" type="array">
+      <obj_property name="ElementShortName">data[6:0]</obj_property>
+      <obj_property name="ObjectShortName">data[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Reg_In" type="array">
+      <obj_property name="ElementShortName">Reg_In[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_In[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Reg0" type="array">
+      <obj_property name="ElementShortName">Reg0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Reg1" type="array">
+      <obj_property name="ElementShortName">Reg1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Reg2" type="array">
+      <obj_property name="ElementShortName">Reg2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Reg3" type="array">
+      <obj_property name="ElementShortName">Reg3[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg3[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Reg4" type="array">
+      <obj_property name="ElementShortName">Reg4[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg4[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Reg5" type="array">
+      <obj_property name="ElementShortName">Reg5[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg5[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Reg6" type="array">
+      <obj_property name="ElementShortName">Reg6[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg6[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Reg7" type="array">
+      <obj_property name="ElementShortName">Reg7[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg7[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/immediate_value" type="array">
+      <obj_property name="ElementShortName">immediate_value[3:0]</obj_property>
+      <obj_property name="ObjectShortName">immediate_value[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/add_sub_output" type="array">
+      <obj_property name="ElementShortName">add_sub_output[3:0]</obj_property>
+      <obj_property name="ObjectShortName">add_sub_output[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Y0" type="array">
+      <obj_property name="ElementShortName">Y0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Y0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Y1" type="array">
+      <obj_property name="ElementShortName">Y1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Y1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/address" type="array">
+      <obj_property name="ElementShortName">address[3:0]</obj_property>
+      <obj_property name="ObjectShortName">address[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/RegEn" type="array">
+      <obj_property name="ElementShortName">RegEn[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RegEn[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/memory_select" type="array">
+      <obj_property name="ElementShortName">memory_select[2:0]</obj_property>
+      <obj_property name="ObjectShortName">memory_select[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Program_Counter_In" type="array">
+      <obj_property name="ElementShortName">Program_Counter_In[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Program_Counter_In[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/address_to_jump" type="array">
+      <obj_property name="ElementShortName">address_to_jump[2:0]</obj_property>
+      <obj_property name="ObjectShortName">address_to_jump[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Add_3bit_output" type="array">
+      <obj_property name="ElementShortName">Add_3bit_output[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Add_3bit_output[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/A" type="array">
+      <obj_property name="ElementShortName">A[2:0]</obj_property>
+      <obj_property name="ObjectShortName">A[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/B" type="array">
+      <obj_property name="ElementShortName">B[2:0]</obj_property>
+      <obj_property name="ObjectShortName">B[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/instruction" type="array">
+      <obj_property name="ElementShortName">instruction[11:0]</obj_property>
+      <obj_property name="ObjectShortName">instruction[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/load_select" type="logic">
+      <obj_property name="ElementShortName">load_select</obj_property>
+      <obj_property name="ObjectShortName">load_select</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/add_or_subtract" type="logic">
+      <obj_property name="ElementShortName">add_or_subtract</obj_property>
+      <obj_property name="ObjectShortName">add_or_subtract</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/jump_flag" type="logic">
+      <obj_property name="ElementShortName">jump_flag</obj_property>
+      <obj_property name="ObjectShortName">jump_flag</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/Cout" type="logic">
+      <obj_property name="ElementShortName">Cout</obj_property>
+      <obj_property name="ObjectShortName">Cout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Microprocessor/UUT/slow_clock" type="logic">
+      <obj_property name="ElementShortName">slow_clock</obj_property>
+      <obj_property name="ObjectShortName">slow_clock</obj_property>
+   </wvobject>
+</wave_config>

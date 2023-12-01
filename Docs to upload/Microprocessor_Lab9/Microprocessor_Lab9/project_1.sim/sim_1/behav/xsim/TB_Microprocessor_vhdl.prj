@@ -1,0 +1,23 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/new/Add_3bit.vhd" \
+"../../../../project_1.srcs/sources_1/new/Add_Sub_4bit.vhd" \
+"../../../../project_1.srcs/sources_1/new/Decoder_2_to_4.vhd" \
+"../../../../project_1.srcs/sources_1/new/Decoder_3_to_8.vhd" \
+"../../../../project_1.srcs/sources_1/new/FA.vhd" \
+"../../../../project_1.srcs/sources_1/new/HA.vhd" \
+"../../../../project_1.srcs/sources_1/new/Instruction_Decoder.vhd" \
+"../../../../project_1.srcs/sources_1/new/LUT_16_7.vhd" \
+"../../../../project_1.srcs/sources_1/new/MUX_2_to_1_3bit.vhd" \
+"../../../../project_1.srcs/sources_1/new/MUX_2_to_1_4bit.vhd" \
+"../../../../project_1.srcs/sources_1/new/MUX_8_to_1_4bit.vhd" \
+"../../../../project_1.srcs/sources_1/new/Microprocessor.vhd" \
+"../../../../project_1.srcs/sources_1/new/Program_Counter.vhd" \
+"../../../../project_1.srcs/sources_1/new/ROM.vhd" \
+"../../../../project_1.srcs/sources_1/new/Reg.vhd" \
+"../../../../project_1.srcs/sources_1/new/Reg_Bank.vhd" \
+"../../../../project_1.srcs/sources_1/new/Slow_Clk.vhd" \
+"../../../../project_1.srcs/sim_1/new/TB_Microprocessor.vhd" \
+
+# Do not sort compile order
+nosort

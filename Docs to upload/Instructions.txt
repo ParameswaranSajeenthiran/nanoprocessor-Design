@@ -1,0 +1,5 @@
+Instructions 
+
+1) When the board is programmed the LEDs and the 7 segments will display the summation from 1 to 3. first the 7 segment will show 3 ,then add 2  and show  5 ,then add 1 and show 6.
+ 
+2) To reset the nanoprocessor push U18 push button.
